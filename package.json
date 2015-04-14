@@ -1,0 +1,27 @@
+{
+  "name": "react-html-select",
+  "version": "0.1.0",
+  "description": "Very lightweight React component duplicating the behaviour of html <select> tag. Can be easily styled.",
+  "main": "./src/index.js",
+  "keywords": [
+    "react",
+    "html",
+    "html-select",
+    "select"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomkis1/react-html-select.git"
+  },
+  "author": "Tomas Weiss <tomas.weiss2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^0.13.1"
+  },
+  "devDependencies": {
+    "jest-cli": "^0.4.0"
+  }
+}
