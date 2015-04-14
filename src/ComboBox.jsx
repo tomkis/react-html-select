@@ -1,6 +1,6 @@
 var React = require('react/addons');
 var Cx = React.addons.classSet;
-var ComboBoxValue = require('./ComboBoxValue.jsx');
+var ComboBoxValue = require('./ComboBoxValue');
 
 var DEFAULT_VALUE = 'Select a value';
 var DEFAULT_CLASS = 'combo-box';
