@@ -2,7 +2,7 @@
   "name": "react-html-select",
   "version": "0.1.0",
   "description": "Very lightweight React component duplicating the behaviour of html <select> tag. Can be easily styled.",
-  "main": "./src/index.js",
+  "main": "./dist/index.js",
   "keywords": [
     "react",
     "html",
@@ -22,6 +22,8 @@
     "react": "^0.13.1"
   },
   "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-react": "^3.0.1",
     "jest-cli": "^0.4.0"
   }
 }
